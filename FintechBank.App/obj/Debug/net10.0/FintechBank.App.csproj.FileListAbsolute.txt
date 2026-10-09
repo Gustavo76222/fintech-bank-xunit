@@ -1,0 +1,14 @@
+C:\Users\gusta\Downloads\FintechBank\FintechBank\FintechBank.App\bin\Debug\net10.0\FintechBank.App.exe
+C:\Users\gusta\Downloads\FintechBank\FintechBank\FintechBank.App\bin\Debug\net10.0\FintechBank.App.deps.json
+C:\Users\gusta\Downloads\FintechBank\FintechBank\FintechBank.App\bin\Debug\net10.0\FintechBank.App.runtimeconfig.json
+C:\Users\gusta\Downloads\FintechBank\FintechBank\FintechBank.App\bin\Debug\net10.0\FintechBank.App.dll
+C:\Users\gusta\Downloads\FintechBank\FintechBank\FintechBank.App\bin\Debug\net10.0\FintechBank.App.pdb
+C:\Users\gusta\Downloads\FintechBank\FintechBank\FintechBank.App\obj\Debug\net10.0\FintechBank.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Downloads\FintechBank\FintechBank\FintechBank.App\obj\Debug\net10.0\FintechBank.App.AssemblyInfoInputs.cache
+C:\Users\gusta\Downloads\FintechBank\FintechBank\FintechBank.App\obj\Debug\net10.0\FintechBank.App.AssemblyInfo.cs
+C:\Users\gusta\Downloads\FintechBank\FintechBank\FintechBank.App\obj\Debug\net10.0\FintechBank.App.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Downloads\FintechBank\FintechBank\FintechBank.App\obj\Debug\net10.0\FintechBank.App.dll
+C:\Users\gusta\Downloads\FintechBank\FintechBank\FintechBank.App\obj\Debug\net10.0\refint\FintechBank.App.dll
+C:\Users\gusta\Downloads\FintechBank\FintechBank\FintechBank.App\obj\Debug\net10.0\FintechBank.App.pdb
+C:\Users\gusta\Downloads\FintechBank\FintechBank\FintechBank.App\obj\Debug\net10.0\FintechBank.App.genruntimeconfig.cache
+C:\Users\gusta\Downloads\FintechBank\FintechBank\FintechBank.App\obj\Debug\net10.0\ref\FintechBank.App.dll
